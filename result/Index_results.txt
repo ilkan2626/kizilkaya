@@ -1,0 +1,2 @@
+ttstone.com/media/br4infabrik.txt
+1618-paris.com/wp-admin/admin-ajax.php?action=revslider_ajax_action&client_action=get_captions_css
